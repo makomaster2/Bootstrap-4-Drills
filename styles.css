@@ -1,0 +1,13 @@
+/* .container-fluid {
+    background-color: blue;
+    height: 500px;
+} */
+
+body {
+    color: white;
+    background-color: black;
+}
+
+.card, .row {
+    background-color: black;
+}
